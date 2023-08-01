@@ -10,6 +10,8 @@ Utteranc.es is a lightweight and open-source commenting system that leverages Gi
 
 Whenever a visitor leaves a comment on my website, Utteranc.es stores the comment as a new GitHub issue in this repository. Each comment is associated with a specific page of the website, making it easy to organize and manage discussions.
 
+For more information about Utteranc.es, please visit their [GitHub repository](https://github.com/utterance/utterances).
+
 ---
 
 _Thank you for participating in the discussions and leaving your valuable comments on my personal website and blog!_
